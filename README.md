@@ -14,7 +14,7 @@
 <a href="https://github.com/AitchEm-bot?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/AitchEm-bot?style=for-the-badge&color=0d1117&labelColor=161b22&logo=person-add&logoColor=58a6ff&label=Followers" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=AitchEm-bot&style=for-the-badge&color=0d1117&label=VISITORS&abbreviated=true" />&nbsp;
 <a href="https://orcid.org/0009-0009-8876-8228"><img src="https://custom-icon-badges.demolab.com/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=161b22" /></a>&nbsp;
-<a href="mailto:hanihani2005@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Reach%20Out-58a6ff?style=for-the-badge&logo=mail&logoColor=white" /></a>
+<a href="mailto:et.hani.moustafa@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Reach%20Out-58a6ff?style=for-the-badge&logo=mail&logoColor=white" /></a>
 
 </div>
 
@@ -30,12 +30,11 @@ name: Hani Moustafa
 role: Automated Systems & NLP Engineer
 focus: Agentic pipelines, multimodal neural encoders, Arabic NLP
 
-building:
-  nam:      "AI voice intelligence for Saudi enterprise — real-time Arabic sentiment"
-  claudie:  "Scheduled AI persistence — Claude wakes, reads its past, creates"
-  knowme:   "TRIBE v2 neural encoder — predicting brain responses to social feeds"
-  research: "C2PA credentials survival pipeline — 4-phase automated forensics"
-  grc:      "ComplianceOS — regulatory automation for Saudi industries"
+built:
+  nam:      "AI voice intelligence for Saudi enterprise: real-time Arabic sentiment"
+  claudie:  "Scheduled AI persistence: Claude wakes, reads its past, creates"
+  knowme:   "TRIBE v2 neural encoder: predicting brain responses to social feeds"
+  research: "C2PA credentials survival pipeline: 4-phase automated forensics"
 
 daily:      ["Python", "TypeScript", "PyTorch", "Next.js", "Docker"]
 nlp:        ["TRIBE v2", "Claude API", "Sentiment models", "Arabic RTL"]
@@ -93,7 +92,7 @@ philosophy: "Automate the boring. Model the unspoken."
 <!-- ══════════════════════ PROJECTS ══════════════════════ -->
 
 <details open>
-<summary><h2>&#128640; What I'm Building</h2></summary>
+<summary><h2>&#128640; What I've Built</h2></summary>
 
 <table>
 <tr>
@@ -104,7 +103,7 @@ philosophy: "Automate the boring. Model the unspoken."
 
 **AI Voice Intelligence for Saudi Enterprise**
 
-Real-time contact-center platform with Arabic sentiment analysis, 3D neural call graphs, and live agent coaching. Built for RTL languages from the ground up — not retrofitted.
+Real-time contact-center platform with Arabic sentiment analysis, 3D neural call graphs, and live agent coaching. Built for RTL languages from the ground up, not retrofitted.
 
 `Next.js` `Zustand` `R3F` `D3.js` `Sentiment Models`
 
@@ -120,7 +119,7 @@ Real-time contact-center platform with Arabic sentiment analysis, 3D neural call
 
 **Scheduled AI Persistence**
 
-Claude wakes on a schedule, reads everything it has ever written, and creates something new — thoughts, dreams, code. Cross-platform cron via launchd / Task Scheduler, with a WebSocket bridge for live conversation.
+Claude wakes on a schedule, reads everything it has ever written, and creates something new: thoughts, dreams, code. Cross-platform cron via launchd / Task Scheduler, with a WebSocket bridge for live conversation.
 
 `Claude Agent SDK` `Next.js` `WebSocket` `Cron`
 
@@ -154,7 +153,7 @@ Chrome extension running Meta's trimodal (vision + audio + text) encoder against
 
 **C2PA Credentials Survival Pipeline**
 
-Do content credentials survive compression, editing, and a social-media round-trip? A 4-phase fully automated pipeline — generate, sign, transform, verify — with PSNR / SSIM / VMAF and pinned seeds.
+Do content credentials survive compression, editing, and a social-media round-trip? A 4-phase fully automated pipeline (generate, sign, transform, verify) with PSNR / SSIM / VMAF and pinned seeds.
 
 `Python` `Stable Diffusion` `c2patool` `FFmpeg` `CUDA`
 
@@ -165,29 +164,6 @@ Do content credentials survive compression, editing, and a social-media round-tr
 </td>
 </tr>
 </table>
-
-<details>
-<summary><h3>&#128218; ComplianceOS (grc) &mdash; Regulatory Automation</h3></summary>
-
-<br/>
-
-<div align="center">
-
-> *Unified GRC platform for Saudi regulated industries — correspondence workflows, framework-based compliance tagging, multi-authority automation*
-
-</div>
-
-<table>
-<tr><td align="center" width="160"><b>&#128196; Frameworks</b></td><td>Multi-framework compliance tagging across Saudi regulatory bodies</td></tr>
-<tr><td align="center" width="160"><b>&#9993;&#65039; Correspondence</b></td><td>Structured regulatory correspondence workflow with audit trail</td></tr>
-<tr><td align="center" width="160"><b>&#128276; Alerts</b></td><td>Automated deadline and obligation tracking across authorities</td></tr>
-</table>
-
-<div align="center"><br/>
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,postgres&theme=dark" />
-</div>
-
-</details>
 
 </details>
 
@@ -204,14 +180,6 @@ Do content credentials survive compression, editing, and a social-media round-tr
 <a href="https://github.com/AitchEm-bot">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AitchEm-bot&show_icons=true&bg_color=0d1117&border_color=161b22&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&hide_border=false&hide=contribs" />
 </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AitchEm-bot&theme=darkhub&no-frame=true&no-bg=true&column=-1&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -285,12 +253,14 @@ Do content credentials survive compression, editing, and a social-media round-tr
 <div align="center">
 
 <a href="https://github.com/AitchEm-bot"><img src="https://custom-icon-badges.demolab.com/badge/GitHub-AitchEm--bot-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" /></a>&nbsp;&nbsp;
-<a href="mailto:hanihani2005@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Gmail-hanihani2005-EA4335?style=for-the-badge&logo=mail&logoColor=white&labelColor=161b22" /></a>&nbsp;&nbsp;
+<a href="mailto:et.hani.moustafa@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Contact%20Me-EA4335?style=for-the-badge&logo=mail&logoColor=white&labelColor=161b22" /></a>&nbsp;&nbsp;
 <a href="https://orcid.org/0009-0009-8876-8228"><img src="https://custom-icon-badges.demolab.com/badge/ORCID-0009--0009--8876--8228-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=161b22" /></a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+> *"What I cannot create, I do not understand."*
+>
+> **Richard Feynman**
 
 <br/>
 
