@@ -6,7 +6,7 @@
 
 <!-- TYPING ANIMATION -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Automated+Systems+%2B+NLP+Engineer;Python+%7C+TypeScript+%7C+PyTorch+%7C+Next.js+%7C+Docker;Teaching+machines+to+read%2C+speak%2C+and+run+themselves" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Automated+Systems+%2B+NLP+Engineer;Python+%7C+TypeScript+%7C+PyTorch+%7C+Next.js+%7C+Docker;Teaching+machines+to+read%2C+speak%2C+and+run+themselves" alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -14,7 +14,7 @@
 <a href="https://github.com/AitchEm-bot?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/AitchEm-bot?style=for-the-badge&color=0d1117&labelColor=161b22&logo=person-add&logoColor=58a6ff&label=Followers" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=AitchEm-bot&style=for-the-badge&color=0d1117&label=VISITORS&abbreviated=true" />&nbsp;
 <a href="https://orcid.org/0009-0009-8876-8228"><img src="https://custom-icon-badges.demolab.com/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=161b22" /></a>&nbsp;
-<a href="mailto:hanihani2005@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Hire%20Me-58a6ff?style=for-the-badge&logo=mail&logoColor=white" /></a>
+<a href="mailto:hanihani2005@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Reach%20Out-58a6ff?style=for-the-badge&logo=mail&logoColor=white" /></a>
 
 </div>
 
