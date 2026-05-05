@@ -178,7 +178,10 @@ Do content credentials survive compression, editing, and a social-media round-tr
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AitchEm-bot&theme=github-dark-blue&background=0d1117&border=161b22&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 </a>
 <a href="https://github.com/AitchEm-bot">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AitchEm-bot&show_icons=true&bg_color=0d1117&border_color=161b22&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&hide_border=false&hide=contribs" />
+<img height="180em" src="https://raw.githubusercontent.com/AitchEm-bot/AitchEm-bot/profile-summary-card-output/profile-summary-card-output/github_dark/3-stats.svg" />
+</a>
+<a href="https://github.com/AitchEm-bot?tab=repositories">
+<img height="180em" src="https://raw.githubusercontent.com/AitchEm-bot/AitchEm-bot/profile-summary-card-output/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
 </a>
 
 </div>
