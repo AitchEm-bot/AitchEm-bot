@@ -31,7 +31,7 @@ role: Automated Systems & NLP Engineer
 focus: Agentic pipelines, multimodal neural encoders, Arabic NLP
 
 built:
-  nam:      "AI voice intelligence for Saudi enterprise: real-time Arabic sentiment"
+  sitewatch: "Construction-site CV: YOLO + classical pipeline flags PPE violations live"
   claudie:  "Scheduled AI persistence: Claude wakes, reads its past, creates"
   knowme:   "TRIBE v2 neural encoder: predicting brain responses to social feeds"
   research: "C2PA credentials survival pipeline: 4-phase automated forensics"
@@ -98,16 +98,16 @@ philosophy: "Automate the boring. Model the unspoken."
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">&#127911; NAM</h3>
+<h3 align="center"><a href="https://github.com/AitchEm-bot/sitewatch">&#128679; SiteWatch</a></h3>
 <div align="center">
 
-**AI Voice Intelligence for Saudi Enterprise**
+**Real-Time Construction Site Safety Monitor**
 
-Real-time contact-center platform with Arabic sentiment analysis, 3D neural call graphs, and live agent coaching. Built for RTL languages from the ground up, not retrofitted.
+Computer vision pipeline that flags PPE violations and worker-machinery proximity from live camera feeds. Fuses YOLOv8 (COCO baseline + custom-fine-tuned) with classical CV — CLAHE, Hough shapes, MOG2 motion — behind a Streamlit app, with timestamped CSV violation logs.
 
-`Next.js` `Zustand` `R3F` `D3.js` `Sentiment Models`
+`Python` `YOLOv8` `OpenCV` `Streamlit` `PyTorch`
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,threejs,ts,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,opencv,linux&theme=dark" />
 
 </div>
 
