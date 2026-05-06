@@ -256,6 +256,7 @@ Do content credentials survive compression, editing, and a social-media round-tr
 <div align="center">
 
 <a href="https://github.com/AitchEm-bot"><img src="https://custom-icon-badges.demolab.com/badge/GitHub-AitchEm--bot-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hanimoustafa"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Hani%20Moustafa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" /></a>&nbsp;&nbsp;
 <a href="mailto:et.hani.moustafa@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Contact%20Me-EA4335?style=for-the-badge&logo=mail&logoColor=white&labelColor=161b22" /></a>&nbsp;&nbsp;
 <a href="https://orcid.org/0009-0009-8876-8228"><img src="https://custom-icon-badges.demolab.com/badge/ORCID-0009--0009--8876--8228-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=161b22" /></a>
 
